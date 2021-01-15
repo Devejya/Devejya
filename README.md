@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🌍, I'm Devejya (Jai)! Welcome and Have Fun! 👋
 
 **I'm a ✨Physics and CS undergrad at UWaterloo✨ interested in all parts of Data Science (ML SWE, ML Infra, ETL, Modelling, Analysis, Deployment, etc.) along with a whole lot of other things, in summary I'm currently a Data Science generalist looking to explore!**
 
@@ -9,5 +9,5 @@
 - 💬 Ask me about ML, Data Science in industry, Physics and Sports
 - 📫 How to reach me: draghuva@uwaterloo.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing all sports and have played 3 sports at State/Province Level (Football/Soccer ⚽️, Judo 🥋, Cricket 🏏)
+- ⚡ Fun fact: I love playing all sports and have played 3 sports at State/Province and Semi Pro Level (Football/Soccer ⚽️, Judo 🥋, Cricket 🏏)
 
