@@ -9,5 +9,5 @@
 - 💬 Ask me about ML, Data Science in industry, Physics and Sports
 - 📫 How to reach me: draghuva@uwaterloo.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing all sports and have played 3 sports at State/Province and Semi Pro Level (Football/Soccer ⚽️, Judo 🥋, Cricket 🏏)
+- ⚡ Fun fact: This term I went a week without sleep :)
 
