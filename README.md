@@ -1,6 +1,6 @@
 ### 👋
 
-**I'm a ✨Physics and CS undergrad at UWaterloo✨ interested in all parts of Data Science (ML SWE, ML Infra, ETL, Modelling, Analysis, Deployment, etc.) along with a whole lot of other things, in summary I'm currently a Data Science generalist looking to explore!**
+**I'm interested in all parts of Data Science (ML SWE, ML Infra, ETL, Modelling, Analysis, Deployment, etc.) along with a whole lot of other things, in summary I'm currently a Data Science generalist looking to explore! Currently, I'm diving deeper into Data Eng at @SnapTravel**
 
 - 🔭 I’m currently working on learning more about **Word Embeddings** and tweaking existing approaches!
 - 🌱 I’m currently learning Word Embedding approaches (Word2Vec, GloVe, SVD based, BERT) and a lot of Physics (Quantum Mech, Stat Mech, etc.)
