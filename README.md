@@ -1,4 +1,4 @@
-### Hello 🌍, I'm Devejya (Jai)! Welcome and Have Fun! 👋
+### 👋
 
 **I'm a ✨Physics and CS undergrad at UWaterloo✨ interested in all parts of Data Science (ML SWE, ML Infra, ETL, Modelling, Analysis, Deployment, etc.) along with a whole lot of other things, in summary I'm currently a Data Science generalist looking to explore!**
 
