@@ -7,6 +7,4 @@
 - 👯 Looking to collaborate on some **NLP** projects (Identify Fake Job Postings, Lyric Generator, etc.)
 - 🤔 Starting a consulting business to help small businesses (Resteraunts, Convenience stores, etc.) transform during these tough times, so hmu if you're interested!
 - 📫 How to reach me: draghuva@uwaterloo.ca
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: This term I went a week without sleep :)
 
